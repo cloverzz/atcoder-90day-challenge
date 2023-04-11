@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/Users/clover/.acmx/solutions/AtCoder - 競プロ典型 90 問/002 - Encyclopedia of Parentheses（★3）/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "002 - Encyclopedia of Parentheses（★3）",
+      "group": "AtCoder - 競プロ典型 90 問",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_b",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}
