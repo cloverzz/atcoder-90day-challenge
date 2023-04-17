@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/Users/clover/.acmx/solutions/AtCoder - 競プロ典型 90 問/004 - Cross Sum（★2）/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "004 - Cross Sum（★2）",
+      "group": "AtCoder - 競プロ典型 90 問",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_d",
+      "memoryLimit": 1024,
+      "timeLimit": 5000
+    }
+  }
+}
