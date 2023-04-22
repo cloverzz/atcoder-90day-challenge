@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/Users/clover/.acmx/solutions/AtCoder - 競プロ典型 90 問/006 - Smallest Subsequence（★5）/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "006 - Smallest Subsequence（★5）",
+      "group": "AtCoder - 競プロ典型 90 問",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_f",
+      "memoryLimit": 1024,
+      "timeLimit": 2000
+    }
+  }
+}
